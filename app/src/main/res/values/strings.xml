@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EquinoxLab</string>
+    <!--url-->
+    <string name="base_url">http://karma.equinoxlab.com/</string>
+    <!--message-->
+    <string name="smtng_went_wrng_txt">Something went worng</string>
+    <string name="loading_txt">Loading</string>
+    <string name="please_wait_txt">Please wait....</string>
+
+    <!--manager Screen-->
+    <string name="manager_list">Manager List</string>
+    <string name="name">Name : </string>
+    <string name="department_name">Department Name : </string>
+
+</resources>
